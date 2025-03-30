@@ -9,7 +9,7 @@ int main() {
     string a;
 
     cout << "Anong gusto mong e-define? ";
-    getline(cin, a);
+    (cin, a);
 
     if (a == "Abacus") {
         cout << "FIRST MANUAL CALCULATOR USING BEADS USING RODS RODS." << endl;
